@@ -14,7 +14,7 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: url("https://github.com/JamesGamble007/PongGame/blob/main/background.jpg");
+  background-image: url("background.jpg");
   background-size: cover;
 }
 
