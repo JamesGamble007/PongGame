@@ -30,7 +30,7 @@ body {
 }
 
 #instructions {
-  display: none;
+  display: "This is Space Pong, where the background is a galaxy and later on I might affect how to ball moves around in the game";
   bottom: 0;
   position: absolute;
   margin: 10px;
