@@ -30,12 +30,11 @@ body {
 }
 
 #instructions {
-  display: "";
+  display: none;
   bottom: 0;
   position: absolute;
   margin: 10px;
   font-family: Arial, Helvetica, sans-serif;
-  font-color: black;
 }
 
 #errors-debug {
