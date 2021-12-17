@@ -31,7 +31,7 @@ body {
 
 #instructions {
   display: "";
-  color: white;
+  background-color: white;
   bottom: 0;
   position: absolute;
   margin: 10px;
