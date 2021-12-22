@@ -8,7 +8,7 @@ class soundFile {
   constructor(file, deferPlay) {
     //this.deferPlay = false;
     this.player = new Tone.Player({
-      url: "https://github.com/JamesGamble007/PongGame/sounds/" + file,
+      url: "https://jamesgamble007.github.io/PongGame/sounds/" + file,
       loop: false,
       autostart: false
     }).toMaster();
