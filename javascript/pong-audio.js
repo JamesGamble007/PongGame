@@ -43,13 +43,13 @@ export var soundArray = []; //list of sounds loaded
 
 //Here is where all the Sound File Players Start
 
-export var wallSound = new soundFile("tap-percussive.mp3"); //load sound
+export var wallSound = new soundFile("Glass_Tap_by_zembacraftworks.wav"); //load sound
 soundArray.push(wallSound); //add sound to list of sounds
 
-export var paddleSound = new soundFile("tap-resonant.mp3");
+export var paddleSound = new soundFile("Metal_Tap_by_BenjaminNelan.wav");
 soundArray.push(paddleSound);
 
-export var scoreSound = new soundFile("tap-percussive.mp3");
+export var scoreSound = new soundFile("8-bit_collect_sound_timer_countdown_by_Breviceps.wav");
 soundArray.push(scoreSound);
 
 export var ambientSound = new soundFile("Alien_Dream_by_Romariogrande.wav");
