@@ -52,7 +52,7 @@ soundArray.push(paddleSound);
 export var scoreSound = new soundFile("8-bit_collect_sound_timer_countdown_by_Breviceps.wav");
 soundArray.push(scoreSound);
 
-export var ambientSound = new soundFile("Alien_Dream_by_Romariogrande.wav");
+export var ambientSound = new soundFile("Alien_Dream_Remix_by_James.mp3");
 soundArray.push(ambientSound);
 ambientSound.player.loop = true; //turn on looping
 ambientSound.player.volume.value = -20; //turn down volume
